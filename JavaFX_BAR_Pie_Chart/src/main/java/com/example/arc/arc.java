@@ -20,7 +20,7 @@ public class arc extends Application {
     final static int BLUE = 25;
     final static int BLACK = 15;
 
-    @Override/*from   w w w .j a v  a2  s.com*/
+    @Override
     public void start(Stage primaryStage) {
 
         // Create the pie slices
